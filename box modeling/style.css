@@ -1,0 +1,19 @@
+.container {
+    background-color: black;
+    height: 800px;
+    width: 800px;
+    display: flexbox;
+}
+
+.blue {
+    background-color: blue;
+    padding: 100px;
+    margin: 100px;
+}
+
+.green {
+    background-color: green;
+    padding: 100px;
+    margin: 100px;
+    text-decoration: underline;
+}
